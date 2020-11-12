@@ -3,6 +3,7 @@
 Margaret Hamilton is a Computer Scientist and a pioneer of Software Engineering who made major contributions to the Apollo 11 program and helped establish the field of Software Engineering. 
 Her most notable achievements came at the MIT Draper Laboratory where she led the Command Module team and was responsible for critical pieces of software that landed a man on the moon. 
 
+
 ### Education
 Hamilton was born on the 17th of August 1936 in Paoli, Indiana. She earned a degree in mathematics from Earlham College in 1958 and had intended to peruse a graduate degree in abstract mathematics with the intention of becoming a professor of mathematics. 
 During the summer of 1959 Hamilton got a job in the meteorology department of MIT writing software to predict weather. It was here that she developed her passion for software engineering and made the decision to pursue it professionally instead of her desired graduate degree. During this time computer science was an emerging field and was not offered at major universities, instead developers learned their skills through hands on experience. 
@@ -11,7 +12,7 @@ During the summer of 1959 Hamilton got a job in the meteorology department of MI
 Hamilton’s first major project at MIT was the Semi-Automatic Ground Environment (SAGE) which was initially developed to predict weather but was adapted by the US Military as an anti-aircraft defence system against a protentional Soviet attack. Here she was developing on the system at the Lincoln Labs the first system in the world to have real-time computers. Due to the nature of this project Hamilton began thinking about the reliability of software and ways to improve it, a failure of her code could lead to a potential global disaster. This was the beginning of a lifelong interest in creating reliable software
 
 
->*“SAGE was one of the first jumping off points where I became interested in the subject of software reliability.  When the computer crashed during the execution of your program, >there was no hiding. Lights would be flashing, bells would be ringing and everyone, the developers and computer operators, would come running to find out whose program was >doing something bad to the system.”*
+>*“SAGE was one of the first jumping off points where I became interested in the subject of software reliability.  When the computer crashed during the execution of your program, there was no hiding. Lights would be flashing, bells would be ringing and everyone, the developers and computer operators, would come running to find out whose program was doing something bad to the system.”*
 >-**Margaret Hamilton**
 
 

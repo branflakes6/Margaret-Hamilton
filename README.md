@@ -11,8 +11,8 @@ During the summer of 1959 Hamilton got a job in the meteorology department of MI
 Hamilton’s first major project at MIT was the Semi-Automatic Ground Environment (SAGE) which was initially developed to predict weather but was adapted by the US Military as an anti-aircraft defence system against a protentional Soviet attack. Here she was developing on the system at the Lincoln Labs the first system in the world to have real-time computers. Due to the nature of this project Hamilton began thinking about the reliability of software and ways to improve it, a failure of her code could lead to a potential global disaster. This was the beginning of a lifelong interest in creating reliable software
 
 
->“SAGE was one of the first jumping off points where I became interested in the subject of software reliability.  When the computer crashed during the execution of your program, >there was no hiding. Lights would be flashing, bells would be ringing and everyone, the developers and computer operators, would come running to find out whose program was >doing something bad to the system.”
->-Margaret Hamilton
+>*“SAGE was one of the first jumping off points where I became interested in the subject of software reliability.  When the computer crashed during the execution of your program, >there was no hiding. Lights would be flashing, bells would be ringing and everyone, the developers and computer operators, would come running to find out whose program was >doing something bad to the system.”
+>-**Margaret Hamilton**
 
 
 Hamilton’s success on the SAGE project allowed her to gain recognition within MIT and led to her being chosen to join the Draper Laboratory at MIT which was working on the Apollo mission.
@@ -23,7 +23,7 @@ It was here that Hamilton began to develop many new ideas and technologies such 
 During preparation for the Apollo 8 launch Margaret’s daughter Lauren was playing around with a command module simulator and accidentally triggered an error causing a crash by trying to launch a prelaunch program mid-flight. Hamilton’s obsession with being prepared for all possible errors led to her wanting to add a fix for this crash but she was overruled by NASA as they believed no astronaut would make this mistake. 
 
 
->“We had been told many times that astronauts would not make any mistakes, they were trained to be perfect.” – Hamilton
+>*“We had been told many times that astronauts would not make any mistakes, they were trained to be perfect.” – **Hamilton**
 
 However, five days into the Apollo 8 mission astronaut Jim Lovell did just that, accidentally launching the same prefight program mid flight causing the computer to crash and lose all navigation data. This could have been potentially disastrous as it left the ship stranded with no way home but fortunately Hamilton and her team were able to come up with a fix within 9 hours. This incident gave huge credibility to the ideas that Hamilton had been preaching about reliable software and designing for all possible errors. 
 

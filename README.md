@@ -36,7 +36,7 @@ However, five days into the Apollo 8 mission astronaut Jim Lovell did just that,
 
 ### Apollo 11
 
-![Hamilton in 1969, standing next to listings of the software she and her MIT team produced for the Apollo project](Margaret_Hamilton.jpg)
+![Hamilton in 1969, standing next to listings of the software she and her MIT team produced for the Apollo project](Margaret_Hamilton.jpg){: .center-image }
 
 Hamilton’s work for NASA on the Apollo 11 project laid the foundation for a lot of modern software engineering practices used today. Hamilton realised that a project of this importance with such high stakes and the possibility of the loss of human life required much more rigorous and well-defined practices than what existed at the time. The most important of which was testing, the possibility of error in such a complex project was extremely high and needed to be reduced to zero, lessons had been learned from Apollo 8 and Hamilton was insistent that all possible errors should be handled this time. 
 

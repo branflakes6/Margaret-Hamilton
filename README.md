@@ -22,9 +22,9 @@ Initially hired as a programmer Hamilton quickly moved into system design and be
 It was here that Hamilton began to develop many new ideas and technologies such a Priority Displays, asynchronous software, priority scheduling and software reuse.  As well as continuing to develop her ideas of reliable software and error handling.
 During preparation for the Apollo 8 launch Margaret’s daughter Lauren was playing around with a command module simulator and accidentally triggered an error causing a crash by trying to launch a prelaunch program mid-flight. Hamilton’s obsession with being prepared for all possible errors led to her wanting to add a fix for this crash but she was overruled by NASA as they believed no astronaut would make this mistake. 
 
-```
-“We had been told many times that astronauts would not make any mistakes, they were trained to be perfect.” – Hamilton
-```
+
+>“We had been told many times that astronauts would not make any mistakes, they were trained to be perfect.” – Hamilton
+
 However, five days into the Apollo 8 mission astronaut Jim Lovell did just that, accidentally launching the same prefight program mid flight causing the computer to crash and lose all navigation data. This could have been potentially disastrous as it left the ship stranded with no way home but fortunately Hamilton and her team were able to come up with a fix within 9 hours. This incident gave huge credibility to the ideas that Hamilton had been preaching about reliable software and designing for all possible errors. 
 
 ### Apollo 11

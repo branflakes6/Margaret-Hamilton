@@ -12,7 +12,7 @@ During the summer of 1959 Hamilton got a job in the meteorology department of MI
 
 ### Sage
 
-Hamilton’s first major project at MIT was the Semi-Automatic Ground Environment (SAGE) which was initially developed to predict weather but was adapted by the US Military as an anti-aircraft defence system against a protentional Soviet attack. Here she was developing on the system at the Lincoln Labs the first system in the world to have real-time computers. Due to the nature of this project Hamilton began thinking about the reliability of software and ways to improve it, a failure of her code could lead to a potential global disaster. This was the beginning of a lifelong interest in creating reliable software
+Hamilton’s first major project at MIT was the Semi-Automatic Ground Environment (SAGE) which was initially developed to predict weather but was adapted by the US Military as an anti-aircraft defence system against a protentional Soviet attack. Here she was developing on the system at the Lincoln Labs the first system in the world to have real-time computers. Due to the nature of this project Hamilton began thinking about the reliability of software and ways to improve it, a failure of her code could lead to a potential global disaster. This was the beginning of a lifelong interest in creating reliable software.
 
 
 >*“SAGE was one of the first jumping off points where I became interested in the subject of software reliability.  When the computer crashed during the execution of your program, there was no hiding. Lights would be flashing, bells would be ringing and everyone, the developers and computer operators, would come running to find out whose program was doing something bad to the system.”*
@@ -23,7 +23,7 @@ Hamilton’s success on the SAGE project allowed her to gain recognition within 
 
 ### Draper Laboratory 
 
-Initially hired as a programmer Hamilton quickly moved into system design and began rising up the ranks until she found herself in charge of all Command Module software at the Draper Laboratory. She was now in charge of over 100 Engineers and Mathematicians developing software for the Apollo program and Skylab. Her team was responsible for developing the in-flight software as well as the systems software that would do error detection and recovery. 
+Initially hired as a programmer, Hamilton quickly moved into system design and began rising up the ranks until she found herself in charge of all Command Module software at the Draper Laboratory. She was now in charge of over 100 Engineers and Mathematicians developing software for the Apollo program and Skylab. Her team was responsible for developing the in-flight software as well as the systems software that would do error detection and recovery. 
 
 It was here that Hamilton began to develop many new ideas and technologies such a Priority Displays, asynchronous software, priority scheduling and software reuse.  As well as continuing to develop her ideas of reliable software and error handling.
 
@@ -45,6 +45,9 @@ The code written by Hamilton and her team had to be flawless, it could not conta
 This obsession with identifying and dealing with every possible error proved critical during the landing sequence of Apollo 11
 
 Three minutes before the landing of Apollo 11 several computer alarms went off and interrupted the astronauts with Hamilton’s new Priority Displays. The issue was that due to a fault in the operations script provided to the astronauts a rendezvous switch had been left on and the computer was now overloaded with tasks. Fortunately, Hamilton had prepared for this and the computer could detect that it was being asked to perform more tasks than it was capable off. The software set off alarms to alert the astronauts of this problem and then began to eliminate lower priority tasks and focus on its most important task of landing the ship. If it wasn’t for this error detection and correction system, it is very likely the overloaded computer would have crashed and ended in disaster.
+
+>*"The computer (or rather the software in it) was smart enough to recognize that it was being asked to perform more tasks than it should be performing. It then sent out an alarm, which meant to the astronaut, 'I'm overloaded with more tasks than I should be doing at this time and I'm going to keep only the more important tasks'; i.e., the ones needed for landing ... Actually, the computer was programmed to do more than recognize error conditions. A complete set of recovery programs was incorporated into the software. The software's action, in this case, was to eliminate lower priority tasks and re-establish the more important ones ... If the computer hadn't recognized this problem and taken recovery action, I doubt if Apollo 11 would have been the successful moon landing it was."*
+>— **Letter from Margaret H. Hamilton**
 
 The entire Apollo 11 software was written on punch cards with only 72 kilobytes of memory, yet not a single bug occurred at any stage during the mission and the software even managed to correct errors made by the astronauts to avoid failure. It is extremely unlikely that any of this would have been possible without Margaret Hamilton’s meticulous focus on reliable software.
 

@@ -4,12 +4,12 @@ Margaret Hamilton is a Computer Scientist and a pioneer of Software Engineering 
 
 Her most notable achievements came at the MIT Draper Laboratory where she led the Command Module team and was responsible for critical pieces of software that landed a man on the moon. 
 
-Hamilton has published over 130 papers and is responsible for creating many practices and ideas that are still used in modern software engineering, she spent her career focusing on the development of reliable error free code. 
+Hamilton has published over 130 papers and is responsible for creating many practices and ideas that are still used in modern software engineering, she spent her career focusing on the development of reliable error-free code. 
 
 ### Education
 Hamilton was born on the 17th of August 1936 in Paoli, Indiana. She earned a degree in mathematics from Earlham College in 1958 and had intended to peruse a graduate degree in abstract mathematics with the intention of becoming a professor of mathematics. 
 
-During the summer of 1959 Hamilton got a job in the meteorology department of MIT writing software to predict weather. It was here that she developed her passion for software engineering and made the decision to pursue it professionally instead of her desired graduate degree. During this time computer science was an emerging field and was not offered at major universities, instead developers learned their skills through hands on experience. 
+During the summer of 1959 Hamilton got a job in the meteorology department of MIT writing software to predict weather. It was here that she developed her passion for software engineering and made the decision to pursue it professionally instead of her desired graduate degree. During this time computer science was an emerging field and was not offered at major universities; instead, developers learned their skills through hands on experience. 
 
 ### Sage
 
@@ -56,13 +56,13 @@ The entire Apollo 11 software was written on punch cards with only 72 kilobytes 
 
 ### Other Endeavours 
 
-After her work at MIT and NASA Hamilton went on to found two software engineering companies, Higher Order Software (HOS) and Hamilton Technologies. At HOS she further developed her idea of error detection and prevention, developing methodology that would be implemented by various government projects. 
+After her work at MIT and NASA Hamilton went on to found two software engineering companies, Higher Order Software (HOS) and Hamilton Technologies. At HOS she further developed her idea of error detection and prevention, developing a product called USE.IT based on the methodology she developed while working for MIT. USE.IT was successfully used in many government projects. The ideas developed at HOS have been used to formalize semantic and linguistic quantifiers and the design of reliable real-time embedded systems  
 
 ### Impact on Software Engineering
 
 Hamilton is one of the most important pioneers of software engineering, her contributions to the field when it was in its infancy helped pave the way for many of the practices still used today. Apollo 11 helped legitimise the industry and was the first time that “real engineers” and scientists began to see the value and skill behind it. 
 
-Hamilton started the conversation of reliable software and error free code, creating many of the techniques used to identify and fix it. She realised that if you want to write bug free code you must start with a rigid set of rules that your whole team follows and you must test every component as you go before you deploy any of it.
+Hamilton started the conversation of reliable software and error-free code, creating many of the techniques used to identify and fix it. She realised that if you want to write bug-free code you must start with a rigid set of rules that your whole team follows and you must test every component as you go before you deploy any of it.
 
 She developed many of the foundations of ultra-reliable software design such as of asynchronous software, priority scheduling, software reuse, and man-in-the-loop decision capability such as priority displays. 
 
@@ -92,6 +92,7 @@ https://books.google.ie/books?id=gPGZJ_YuMwgC&pg=PA480&redir_esc=y#v=onepage&q&f
 “2017 CHM Fellow Margaret Hamilton” computerhistory.org
 https://computerhistory.org/blog/2017-chm-fellow-margaret-hamilton/?key=2017-chm-fellow-margaret-hamilton
 
+Abstract Control Structures And The Semantics Of Quantifiers - S. Cushing 
 
-
+https://www.semanticscholar.org/paper/Abstract-Control-Structures-And-The-Semantics-Of-Cushing/85e314b75794d9b95e8880edce81d472de1823ac
 

@@ -56,7 +56,7 @@ The entire Apollo 11 software was written on punch cards with only 72 kilobytes 
 
 ### Other Endeavours 
 
-After her work at MIT and NASA Hamilton went on to found two software engineering companies, Higher Order Software (HOS) and Hamilton Technologies. At HOS she further developed her idea of error detection and prevention, developing a product called USE.IT based on the methodology she developed while working for MIT. USE.IT was successfully used in many government projects. The ideas developed at HOS have been used to formalize semantic and linguistic quantifiers and the design of reliable real-time embedded systems  
+After her work at MIT and NASA Hamilton went on to found two software engineering companies, Higher Order Software (HOS) and Hamilton Technologies. At HOS she further developed her idea of error detection and prevention, developing a product called USE.IT based on the methodology she developed while working for MIT. USE.IT was successfully used in many government projects. The ideas developed at HOS have been used to formalize semantic and linguistic quantifiers and the design of reliable real-time embedded systems.  
 
 ### Impact on Software Engineering
 

@@ -4,6 +4,7 @@ Margaret Hamilton is a Computer Scientist and a pioneer of Software Engineering 
 
 Her most notable achievements came at the MIT Draper Laboratory where she led the Command Module team and was responsible for critical pieces of software that landed a man on the moon. 
 
+Hamilton has published over 130 papers and is responsible for creating many practices and ideas that are still used in modern software engineering, she spent her career focusing on the development of reliable error free code. 
 
 ### Education
 Hamilton was born on the 17th of August 1936 in Paoli, Indiana. She earned a degree in mathematics from Earlham College in 1958 and had intended to peruse a graduate degree in abstract mathematics with the intention of becoming a professor of mathematics. 
@@ -23,7 +24,7 @@ Hamilton’s success on the SAGE project allowed her to gain recognition within 
 
 ### Draper Laboratory 
 
-Initially hired as a programmer, Hamilton quickly moved into system design and began rising up the ranks until she found herself in charge of all Command Module software at the Draper Laboratory. She was now in charge of over 100 Engineers and Mathematicians developing software for the Apollo program and Skylab. Her team was responsible for developing the in-flight software as well as the systems software that would do error detection and recovery. 
+Initially hired as a programmer, Hamilton quickly moved into system design and began rising up the ranks until she found herself in charge of all Command Module software at the Draper Laboratory. She was now in charge of over 100 Engineers and Mathematicians developing software for the Apollo program and Skylab. Her team was responsible for developing the in-flight software for the Apollo Command Module and the systems software. Hamilton took responsibility for developing much of the error detection and handling software herself, often obsessing over every detail to ensure perfection.
 
 It was here that Hamilton began to develop many new ideas and technologies such a Priority Displays, asynchronous software, priority scheduling and software reuse.  As well as continuing to develop her ideas of reliable software and error handling.
 
@@ -44,7 +45,7 @@ Hamilton’s work for NASA on the Apollo 11 project laid the foundation for a lo
 
 The code written by Hamilton and her team had to be flawless, it could not contain a single bug or have even the slightest possibility of failure. In order to achieve this she established hard requirements on the engineering of all components and subsystems to eliminate interface errors with the flight software at the system level, the debugging and testing of all components and full simulation of all possible situations that could occur at the system level. Hamilton insisted every line of code worked the first time as “There was no second chance”. Hamilton wanted to design software that was capable of dealing with unknown problems and be able to interrupt tasks in order to execute a more important one. This had to be done on all 40,000 lines of LEM code and as a result not a single bug has ever been found in the code written by her and the team. 
 
-This obsession with identifying and dealing with every possible error proved critical during the landing sequence of Apollo 11
+This obsession with identifying and dealing with every possible error proved critical during the landing sequence of Apollo 11.
 
 Three minutes before the landing of Apollo 11 several computer alarms went off and interrupted the astronauts with Hamilton’s new Priority Displays. The issue was that due to a fault in the operations script provided to the astronauts a rendezvous switch had been left on and the computer was now overloaded with tasks. Fortunately, Hamilton had prepared for this and the computer could detect that it was being asked to perform more tasks than it was capable off. The software set off alarms to alert the astronauts of this problem and then began to eliminate lower priority tasks and focus on its most important task of landing the ship. If it wasn’t for this error detection and correction system, it is very likely the overloaded computer would have crashed and ended in disaster.
 
@@ -68,6 +69,8 @@ She developed many of the foundations of ultra-reliable software design such as 
 Hamilton is also credited with coining the term “Software Engineering” to define programming as a legitimate science and a branch of engineering. While we may take the term for granted nowadays there is no doubt that having a name like this was extremely important in the early days of the field, it gave outsiders some insight in to the kind of work that was being done and helped cement software as a powerful and complex tool.
 
 Without Hamilton it is very possible that Apollo 11 would have crashed during landing, a disaster that would have not only been a great tragedy and setback for humanity but could have also done incredible damage to the idea of software engineering. If Apollo 11 crashed killing all aboard due to a computer failure it would have cast a shadow over the entire field, the public would have developed a distrust of computing and it would have provided a platform for those inside the scientific community who deemed it a hobby rather than a science. 
+
+At NASA Hamilton helped to show the world the benefit of software and its ability to prevent human error. The original plans for the Apollo program had no mention of software and there was a prevailing opinion at NASA that “Astronauts don’t make mistakes” as they are highly trained and highly intelligent. Hamilton pushed the idea that software should always be capable of detecting and preventing any human mistakes no matter how trivial or unlikely they may be. She was one of the first engineers to understand the value of a complete system of error checks. This is an idea that permeated through out the industry from Hamilton and led to the idea of rigid testing and being prepared for anything the end user may try to do with your software.
 
 ### Sources 
 
